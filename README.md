@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # My Node Drive
 
 **My Node Drive** is a full-stack web application designed to help users schedule test drives for electric vehicles. The application consists of a Node.js/Express backend and a React frontend.
